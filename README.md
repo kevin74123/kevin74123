@@ -5,9 +5,12 @@
 <p>
   I am a 15-year-old boy living in South Korea,
   <br>
-  pursuing coding as a side venture. 
-  Although I am still young 
-  and have yet to fully grasp algorithms, 
+  pursuing coding as a side venture.
+  <br>
+  Although I am still young
+  <br>
+  and have yet to fully grasp algorithms,
+  <br>
   I know how to write code.
 </p>
 
