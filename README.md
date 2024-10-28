@@ -1,6 +1,6 @@
 ### Hello there Variable 👋
 <div align="center">
-  <img src="logo.png" width="100%" alt="Banner">
+  <img src="logo2.png" width="100%" alt="Banner">
 </div>
 <hr>
 
