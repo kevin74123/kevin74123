@@ -1,7 +1,7 @@
 ### Hello there Variable 👋
 
 <hr>
-I am a 15-year-old boy living in South Korea, 
+<p>I am a 15-year-old boy living in South Korea,  </p>
 pursuing coding as a side venture. 
 Although I am still young 
 and have yet to fully grasp algorithms, 
