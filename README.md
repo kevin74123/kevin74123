@@ -1,5 +1,5 @@
-### Hello there Variable 👋
 <div align="center">
+  ### Hello there Variable 👋
   <img src="logo2.png" width="50%" alt="Banner">
 </div>
 <hr>
