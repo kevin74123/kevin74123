@@ -14,12 +14,18 @@
   I know how to write code.
 </p>
 
+<p>
+  Despite my limited understanding,
+  <br>
+  my experiences have led me to
+  <br>
+  create numerous projects and websites.
+  <br>
+  For me, coding is not just a job;
+  <br>
+  it is a form of creation that I hope to cherish.
+</p>
 
-Despite my limited understanding, 
-my experiences have led me to 
-create numerous projects and websites. 
-For me, coding is not just a job; 
-it is a form of creation that I hope to cherish.
 
 Thank you!
 <hr>
